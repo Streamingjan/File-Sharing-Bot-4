@@ -71,7 +71,7 @@ python3 main.py
 
 /users - view bot statistics
 
-/broadcast - broadcast any messages to bot users
+/broadcast - broadcast a messages to bot users
 ```
 
 ### Variables
