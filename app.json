@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/Wuu9705/File-Sharing-Bot",
+  "repositori" : "https://github.com/Streamingjan/File-Sharing-Bot-4" ,
   "logo": "https://telegra.ph/file/14d3013fda21281c54b61.jpg",
   "env": {
     "TG_BOT_TOKEN": {
